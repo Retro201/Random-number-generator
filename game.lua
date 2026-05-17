@@ -1,0 +1,1 @@
+Math.randomseed(os.time())
