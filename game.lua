@@ -23,7 +23,9 @@ function startGame()
         if typed == number then
 
             print("The number was correct. Returning...")
-            sleep()
+            sleep(2)
+            clearscreen()
+            startGame()
         end
     end
 end
