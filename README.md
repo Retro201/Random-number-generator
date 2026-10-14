@@ -17,3 +17,10 @@ designed to work on a loop.
 
 This runs a text based guessing game that runs in
 a loop.
+
+##Bugs
+
+If you find any Bugs within this respiratory, 
+create an issue and state the bug.
+
+Enjoy :)
