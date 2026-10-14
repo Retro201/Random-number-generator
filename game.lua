@@ -27,5 +27,11 @@ function startGame()
             clearscreen()
             startGame()
         end
+        if typed != number then
+            print("The number was wrong. Returning...")
+            sleep(2)
+            clearscreen()
+            startGame()
+        end
     end
 end
