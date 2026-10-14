@@ -35,3 +35,5 @@ function startGame()
         end
     end
 end
+
+startGame()
