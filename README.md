@@ -12,6 +12,8 @@ designed to work on a loop.
  2. Download this Respiratory
  3. Open a terminal in the respiratory and run:
     lua game.lua
-##What it does
+
+##What it does do
+
 This runs a text based guessing game that runs in
 a loop.
